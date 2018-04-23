@@ -1,1 +1,1 @@
-# gateway-master
+微服务动态路由api网关，后续希望集成oauth2统一认证
